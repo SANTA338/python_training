@@ -11,7 +11,4 @@ while True:
         print("withdrawl or deposite")
         break
     else:
-        print("invalied pin code")
-    
-
-        
+        print("invalied pin code")    
